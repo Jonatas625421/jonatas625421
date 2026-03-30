@@ -1,7 +1,7 @@
-## Olá! Eu sou o John, Analista de testes de Software
+## Olá Galera! Eu sou o John.
 
-- 🔭 Hoje trabalho com testes de Software
-- 🌱 Estudando sobre automação de testes
+- 🔭 Atualmente trabalho com testes de Software
+- 🌱 Estou estudando sobre automação de testes
 - 📫 Contate-me no Email:jonatas.fonseca26@hotmail.com
 
 <b> Tecnologias </b>
