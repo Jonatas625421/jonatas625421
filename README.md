@@ -7,7 +7,6 @@
   Gosto bastante de aprender sobre as novas tecnologias do universo de testes de software e sempre procuro aprender algo novo que me ajude a evoluir mes conhecimentos.
 
 <b> Tecnologias </b>
-<div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
