@@ -1,7 +1,7 @@
 ## Olá Galera! Eu sou o John.
 
 - 🔭 Atualmente trabalho com testes de Software
-- 🌱 Estou estudando sobre automação de testes
+- 🌱 No momento estou estudando sobre automação de testes
 - 📫 Contate-me no Email:jonatas.fonseca26@hotmail.com
 
   Gosto bastante de aprender sobre as novas tecnologias do universo de testes de software e sempre procuro aprender algo novo que me ajude a evoluir mes conhecimentos.
